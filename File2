@@ -1,5 +1,5 @@
 #IndiaAssetsS3toLocalState
-$myDownloadUrl_AssetsZipS3 = "https://github.com/kiosks9582/IPT/blob/82df228d7dd5cccc265d8d342fa916559e0e67e1/File1.zip"
+$myDownloadUrl_AssetsZipS3 = "https://github.com/kiosks9582/IPT/raw/main/File1.zip"
 
 $KioskInstallerPath = "c:\KIOSK INSTALLER\"
 $zipFileName = "OrderServ.Kiosk.India.Package_1.0.52.0_Test"
